@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
+    <div class="animate-bounce"><img class="mx-auto h-24 transform rotate-180" alt="Vue logo" src="../assets/logo.png"></div>
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
